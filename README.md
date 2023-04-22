@@ -1,2 +1,3 @@
-# Repositories of all programming methodology lab
-programming methodology course lab 2020/2, computer engineering at Chulalongkorn university
+# Hello
+This is a repositories for all of the programming methodology course lab 2020/2, computer engineering at Chulalongkorn university
+If you are my junior from computer engineering, Chulalongkorn. ENJOY!! HOPE THE PROF. DOESN'T CHANGE LAB MUCH (add a star if you like this repo).
